@@ -1,4 +1,4 @@
-module github.com/grpc-ecosystem/grpc-gateway
+module github.com/lfch/grpc-gateway
 
 go 1.14
 
@@ -7,6 +7,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/protobuf v1.5.2
+	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/lfch/grpc v1.51.4
 	github.com/rogpeppe/fastuuid v1.2.0
 	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b
